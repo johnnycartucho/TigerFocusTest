@@ -1,5 +1,5 @@
 {
   "User": {
-    "firstName": { "string": [Johnny, Adam, Cathy, Newton] }
+    "firstName": { "string": ["Johnny", "Adam", "Cathy", "Newton"] }
   }
 }
